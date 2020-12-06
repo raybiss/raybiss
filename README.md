@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello!
+
+- 🔭 I’m currently working on an update to an eLearning program and creating two DITA-OT plugins in the process.
+
+- 🌱 I’m currently learning XForms because I think it's a great idea!
+
+- 💬 Ask me about DITA and the Learning and Training Specializations.
+
+- 📫 You can reach me at raybiss@formedia.ca.
+
+See ya...
 
 <!--
 **raybiss/raybiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
